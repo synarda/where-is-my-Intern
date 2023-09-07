@@ -1,16 +1,9 @@
-# whereismyintern
+🌟Users can register, log in or add a profile photo to the app.
+⭐they can post an internship advertisement or an internship search advertisement.
+📋users must upload a mandatory cv if they are going to post an intern ad.
+🔍You can search separately as internship or internship advertisement with filtering.
+👥If you are posting an advertisement for finding an internship, you will get a qr code that takes you to the link of the CV you have uploaded.
+🏿people can access their cv with the qr code reader in the advertisement.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![wimi](https://github.com/synarda/convert-image-to-text/assets/67860630/a5ede74b-5c53-4df5-8371-85585ca450c8)
+![wimi01](https://github.com/synarda/convert-image-to-text/assets/67860630/0ba4aaf5-05c0-432b-9f03-12eb8c9b794e)

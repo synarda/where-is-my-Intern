@@ -1,0 +1,13 @@
+{
+    "dart.flutterSdkPath": "/opt/flutter",
+    "dart.lineLength": 120,
+    "[dart]": {
+        "editor.rulers": [
+            120
+        ],
+    },
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true,
+    }
+}

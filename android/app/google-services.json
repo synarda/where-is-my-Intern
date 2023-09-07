@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "228055535135",
+    "project_id": "whereismyintern-f3d1a",
+    "storage_bucket": "whereismyintern-f3d1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228055535135:android:c16f7b0bad113bc24ecf2a",
+        "android_client_info": {
+          "package_name": "com.example.whereismyintern"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228055535135-07b7c4suefbain19mdtcu50a14tq3md5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqVsw3igwkdnpru2SNbisG3n-wp7aWWgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228055535135-07b7c4suefbain19mdtcu50a14tq3md5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
